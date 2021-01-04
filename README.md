@@ -2,7 +2,7 @@
 a running list of references I've found useful and will eventually put into a nicer format
 
 
-## Audio Programming##
+## Audio Programming
 A Computer Music Tutorial - Curtis Roads - MIT Press
 Designing Sound Andy Farnell - MIT Press
 Microsound - Curtis Roads - MIT Press
