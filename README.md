@@ -20,7 +20,7 @@ Physical Computing - Tom Igoe
 
 
 ## Theory
-Deep Listening: A Composer's Sound Practice - Pauline Oliveros
+Deep Listening: A Composer's Sound Practice - Pauline Oliveros  
 Musimathics 1 & 2 - Gareth Loy - MIT Press  
 Race After Technology - Ruha Benjamin  
 Audio Vision - Michel Chion  
