@@ -19,10 +19,10 @@ Programming Interactivity - Joshua Noble, O'Reilly
 Physical Computing - Tom Igoe  
 
 
-## Theory / Math / Sound / Social / Critical Theory / Etc
-Deep Listening: A Composer's Sound Practice - Pauline Oliveros 
-In the Break - Fred Moten 
-The Acoustic Mirror - Kaja Silverman 
+## Theory / Math / Sound / Social / Critical Theory
+Deep Listening: A Composer's Sound Practice - Pauline Oliveros  
+In the Break - Fred Moten  
+The Acoustic Mirror - Kaja Silverman  
 Alain Danielou - Music and the Power of Sound 
 Weapons of Math Destruction - Cathy O'neil 
 Esthetics Contemporary - Richard Kostelantz 
